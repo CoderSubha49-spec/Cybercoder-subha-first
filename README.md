@@ -1,2 +1,4 @@
 # Cybercoder-subha-first
 This is the first Git repository
+Intro of this program given by - Mr.SUBHAJIT DARIPA
+Author - SUBHAJIT DARIPA
